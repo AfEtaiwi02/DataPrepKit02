@@ -1,0 +1,3 @@
+Put the notebook and the DataPrepKitAF file in one file and the use 
+
+pip install DataPrepkit
